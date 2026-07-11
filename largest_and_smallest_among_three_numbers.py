@@ -13,5 +13,5 @@ if(num2 < smallest):
 if(num3 < smallest):
     smallest = num3
 
-print("largest number is", largest)
-print("smallest number is", smallest)
+print("largest number = ", largest)
+print("smallest number = ", smallest)
