@@ -11,8 +11,8 @@ class Alto(Toyota):
     def __init__(self,brand):
         self.brand=brand
 
-c1=Alto("kishan")
-c2=Toyota("gopi")
+c1=Alto("Mahendra")
+c2=Toyota("kishan")
 print(c2.name)
 print(c1.brand)
 c1.start()
